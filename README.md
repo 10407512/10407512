@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hello, I am Kaspar
+## 👀I am interested in 
+- Full-stack software development
+- App development
+- Machine learning
 
-<!--
-**10407512/10407512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I am working on
+- My Personal Website
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+-  Next.js with TypeScript & Sanity.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact me on
+- [Linkedin](https://www.linkedin.com/in/kaspar-knøsgaard/)
+- [Email](mailto:kasparknoes@hotmail.com)
