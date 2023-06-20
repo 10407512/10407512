@@ -1,5 +1,5 @@
 ### 👋 Hello, I am Kaspar
-### Access my [Website &#x1F310;](https://my-personal-website-flame.vercel.app/)
+- [&#x1F310; Access my Website](https://my-personal-website-flame.vercel.app/)
 - 👀 I am interested in Full-stack software, App development and Machine learning
 - 🔭 I am working on [My Personal Website](https://github.com/10407512/my-personal-website)
 - 🌱 I’m currently learning Next.js with TypeScript & Sanity.io
